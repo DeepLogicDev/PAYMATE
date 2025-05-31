@@ -1,16 +1,16 @@
 # PAYMATE - YOUR TRANSACTION COMPANION
 PAYMATE is a modern, secure, and user-friendly payment platform built with the MERN stack (MongoDB, Express.js, React, Node.js). Whether you're building an e-commerce store, subscription service, or peer-to-peer payments app — PAYMATE provides a solid foundation to handle transactions seamlessly.
 
-🌟 Features
-✅ User Authentication & Authorization (JWT)
-✅ Wallet System with Balance Management
-✅ Add Money / Withdraw Funds
-✅ Transaction History Tracking
-✅ Secure Payment Gateway Integration (e.g., Stripe, Razorpay)
-✅ RESTful API Backend
-✅ MongoDB for persistent data storage
-✅ Responsive UI for desktop & mobile
-✅ Clean and Modular Code Structure
+# 🌟 Features
+<br>✅ User Authentication & Authorization (JWT)
+<br>✅ Wallet System with Balance Management
+<br>✅ Add Money / Withdraw Funds
+<br>✅ Transaction History Tracking
+<br>✅ Secure Payment Gateway Integration (e.g., Stripe, Razorpay)
+<br>✅ RESTful API Backend
+<br>✅ MongoDB for persistent data storage
+<br>✅ Responsive UI for desktop & mobile
+<br>✅ Clean and Modular Code Structure
 
 # 🛠️ Tech Stack
 <h2>Frontend</h2>
